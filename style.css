@@ -7,9 +7,12 @@ p {
 }
 
 h1{
-    font-style:italic
+    font-style:italic;
 }
 
 .oliveira{
     color: darkred;
+}
+.duda{
+  width: 50%;
 }
